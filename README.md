@@ -1,2 +1,1 @@
-# Power-BI
-Dashboard
+Interactive DashBoard of Mobile data Sales 
